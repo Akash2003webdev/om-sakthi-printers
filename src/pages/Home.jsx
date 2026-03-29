@@ -215,7 +215,7 @@ export default function Home() {
           >
             {/* Unga video file path correct-ah irukanum (Public folder) */}
             <source
-              src="/public/Screen Recording 2026-03-29 183605 (online-video-cutter.com).mp4"
+              src="/bg-video.mp4"
               type="video/mp4"
             />
 
